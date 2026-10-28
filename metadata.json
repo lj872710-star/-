@@ -1,0 +1,6 @@
+{
+  "name": "UniAIGC - 大学AIGC课程作业与评估系统",
+  "description": "专为高校AIGC与数字设计课程打造的作业记录与评估系统，支持扫码登录、6次课堂+1次考试作业、不少于3轮提示词演进、9宫格图像生成、PDF总结导出、自定义作业模版、多维评分与教学数据可视化看板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
